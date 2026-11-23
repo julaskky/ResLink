@@ -1,0 +1,5 @@
+# Database backups and dumps
+*.sql.gz
+*.bak
+*_backup.sql
+*_dump.sql
